@@ -21,3 +21,15 @@ p{
     color: grey;
     font-size: 25px;
 }
+@media screen and (max-width: 540px) {
+    main{
+        margin-top: 50px;
+    }
+    h1{
+        font-size: 30px;
+    }
+    p{
+    margin-top: 20px;
+    font-size: 17px;
+    }
+}
